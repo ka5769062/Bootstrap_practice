@@ -1,0 +1,87 @@
+body{
+
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.title   {
+    text-align: center; 
+ }
+
+.p-5{
+        
+    text-align: center; 
+    height: 400px; 
+    color: white;
+}
+
+.row{
+
+
+    text-align: center;      
+    background-color: white; 
+    padding:20px;
+    border-radius: 20px;
+}
+
+.imge{
+   
+   text-align: center;  
+   margin-top: 30px; 
+   margin-bottom: 120px;
+}
+
+.box2{
+
+    border-left: 1px solid rgb(180, 164, 164);
+    border-right : 1px solid rgb(180, 164, 164);
+
+
+}
+
+ul li{
+
+    list-style-type: none;
+}
+h2{
+
+    padding: 20px;
+}
+
+.icon{
+
+    display: inherit;
+}
+
+.bx2{
+
+    border-left: 0px solid rgb(180, 164, 164);
+    border-right : 0px solid rgb(180, 164, 164);
+
+
+}
+
+/* .companies{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+} */
+
+.hundai{
+
+    margin-right: 45px;
+}
+
+.linkedin{
+
+width: 470px;
+
+}
+
+
+
+  
